@@ -1,0 +1,10 @@
+{
+    "version": 1.0.1,
+    "flies":[
+        {"patch": "ax3lot-fps.exe","hash":  "421B8E2E406A6AFEE9A829841DCD740ABE14B354"},
+        {"patch": "UnityCrashHandler64.exe","hash":  "DB64C33C2030E10F4B6724326BB37FCC3EFB72E6"}
+        {"patch": "UnityPlayer.dll","hash":  "217460B6CBC40C8122AD9BCD6B67A48BBBE62878"}
+        {"patch": "MonoBleedingEdge.zip","hash":  "655556527F315F51105A72458ED2F0891BC601F0"}
+        {"patch": "ax3lot-fps_Data.zip", "hash": "AC6DCB4A2919B31CACE8FF43BDD4AD0685AC2F52"}
+    ]
+}

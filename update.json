@@ -1,5 +1,5 @@
 {
-    "version": 1.02,
+    "version": "1.02",
     "flies":[
         {"patch": "ax3lot-fps.exe","hash":  "421B8E2E406A6AFEE9A829841DCD740ABE14B354"},
         {"patch": "UnityCrashHandler64.exe","hash":  "DB64C33C2030E10F4B6724326BB37FCC3EFB72E6"}

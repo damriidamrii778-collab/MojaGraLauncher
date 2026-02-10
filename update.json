@@ -1,6 +1,6 @@
 {
     "version": "1.0.3",
-    "flies":[
+    "files":[
         {"patch": "ax3lot-fps.exe","hash":  "421B8E2E406A6AFEE9A829841DCD740ABE14B354"},
         {"patch": "UnityCrashHandler64.exe","hash":  "DB64C33C2030E10F4B6724326BB37FCC3EFB72E6"},
         {"patch": "UnityPlayer.dll","hash":  "217460B6CBC40C8122AD9BCD6B67A48BBBE62878"},
